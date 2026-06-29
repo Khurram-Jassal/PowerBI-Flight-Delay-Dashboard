@@ -11,7 +11,7 @@ An interactive Power BI dashboard analyzing flight delays across 5 major US airl
 
 ## 🖥️ Dashboard Preview
 
-![Power BI Dashboard](US Flight Delay Q1-2019 PowerBI.png)
+![PowerBI Dashboard](US%20Flight%20Delay%20Q1-2019%20PowerBI.png)
 
 ---
 
