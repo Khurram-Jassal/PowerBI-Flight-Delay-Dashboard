@@ -80,7 +80,7 @@ An interactive Power BI dashboard analyzing flight delays across 5 major US airl
 
 ## 👤 Author
 
-**Muhammad Khurram Jassal** — MS in Data Analytics
+**Muhammad Khurram Jassal** — MS in Data Analytics - University of Niagarafalls
 
 ## Note
 This project is for educational and portfolio purposes.
